@@ -43,10 +43,27 @@ Developed by: RegisterNumber:24000839
 **Output:**
 
 **RTL**
+
+part 1
+
 ![Screenshot 2024-11-12 051028](https://github.com/user-attachments/assets/b9adb0fc-4b07-4bd3-b1df-6c34c88802ee)
 
+part 2
+
+![Screenshot 2024-11-19 034234](https://github.com/user-attachments/assets/ba993afa-d9d0-46b4-bdb0-326ac714cefb)
+
+
+
 **Timing Diagram**
+
+part 1
+
 ![Screenshot 2024-11-12 051132](https://github.com/user-attachments/assets/633684a7-1be4-449d-bc6a-83da029108b1)
+
+part2 
+
+![Screenshot 2024-11-19 034407](https://github.com/user-attachments/assets/fcc5382a-39cf-40b0-befe-7c45efe8013b)
+
 
 **Result:**
 
